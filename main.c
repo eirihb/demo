@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	return 69;
+	return 420;
 }
 
